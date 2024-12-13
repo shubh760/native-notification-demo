@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999723098037",
+    "project_id": "notification-demo-bc3ea",
+    "storage_bucket": "notification-demo-bc3ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999723098037:android:f0b0d9bd9d43bd036703fc",
+        "android_client_info": {
+          "package_name": "com.example.androidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ULKcfUm5QJgwVh1wCzfMFsGVR5HXfLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999723098037:android:079f7d36f1e7aeb96703fc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ULKcfUm5QJgwVh1wCzfMFsGVR5HXfLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

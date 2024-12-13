@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.flutter_module.host.app-merged_res-50:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.flutter_module.host.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.flutter_module.host.app-merged_res-50:/drawable_launch_background.xml.flat",
+        "source": "com.example.flutter_module.host.app-main-41:/drawable/launch_background.xml"
+    }
+]
